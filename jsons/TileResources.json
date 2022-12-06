@@ -1,83 +1,86 @@
 [
+	// Luxury res
 	{
 		"name": "Amber",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Forest","Tundra","Grassland","Plains"],
+		"terrainsCanBeFoundOn": [ "Forest", "Tundra", "Grassland", "Plains" ],
 		"gold": 2,
-		"improvement": "Mine"
-		"improvementStats": {"gold": 1}
+		"improvement": "Mine",
+		"improvementStats": { "gold": 1 }
 	},
 	{
 		"name": "Coffee",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Jungle","Plains"],
+		"terrainsCanBeFoundOn": [ "Grassland", "Plains" ],
 		"gold": 2,
-		"improvement": "Mine"
-		"improvementStats": {"gold": 1}
+		"improvement": "Plantation",
+		"improvementStats": { "gold": 1 }
 	},
 	{
 		"name": "Coral",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Coast"],
+		"terrainsCanBeFoundOn": [ "Coast" ],
 		"gold": 2,
 		"improvement": "Fishing Boats",
-		"improvementStats": {"gold": 1}
-	},
-	{
-		"name": "Glass",
-		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Desert","Hill"],
-		"production": 2,
-		"improvement": "Mine",
-		"improvementStats": {"production": 1}
+		"improvementStats": { "gold": 1 }
 	},
 	{
 		"name": "Jade",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Grassland","Desert","Plains","Tundra"],
+		"terrainsCanBeFoundOn": [ "Grassland", "Plains", "Desert", "Tundra" ],
 		"gold": 2,
 		"improvement": "Mine",
-		"improvementStats": {"gold": 1}
+		"improvementStats": { "gold": 1 }
 	},
 	{
 		"name": "Lapis Lazuli",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Hill"],
+		"terrainsCanBeFoundOn": [ "Grassland", "Plains", "Desert", "Tundra", "Hill" ],
 		"gold": 2,
 		"improvement": "Mine",
-		"improvementStats": {"gold": 1}
+		"improvementStats": { "gold": 1 }
 	},
 	{
 		"name": "Olives",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+		"terrainsCanBeFoundOn": [ "Grassland", "Plains" ],
 		"gold": 1,
 		"food": 1,
 		"improvement": "Plantation",
-		"improvementStats": {"gold": 1,"food": 1}
+		"improvementStats": {
+			"gold": 1,
+			"food": 1
+		}
 	},
 	{
 		"name": "Perfume",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+		"terrainsCanBeFoundOn": [ "Grassland", "Plains" ],
 		"gold": 2,
 		"improvement": "Plantation",
-		"improvementStats": {"gold": 1}
+		"improvementStats": { "gold": 1 }
 	},
 	{
 		"name": "Tea",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+		"terrainsCanBeFoundOn": [ "Grassland", "Plains" ],
 		"gold": 2,
 		"improvement": "Plantation",
-		"improvementStats": {"gold": 1}
+		"improvementStats": { "gold": 1 }
 	},
 	{
 		"name": "Tobacco",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+		"terrainsCanBeFoundOn": [ "Grassland", "Plains" ],
 		"gold": 2,
 		"improvement": "Plantation",
-		"improvementStats": {"gold": 1}
+		"improvementStats": { "gold": 1 }
+	},
+	// Unique res
+	{
+		"name": "Glass",
+		"resourceType": "Luxury",
+		"gold": 2,
+		"uniques": ["Can only be created by Mercantile City-States"]
 	}
 ]

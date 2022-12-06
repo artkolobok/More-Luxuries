@@ -1,0 +1,41 @@
+|------------------------------------------------------------------------------------|
+|
+|	Author: artkolobok
+|	Discord: Artkolobok#9123
+|
+|------------------------------------------------------------------------------------|
+|
+|	Art: Used by Red11 (Many thanks)
+|	Discrod: Red11#7070
+|
+|------------------------------------------------------------------------------------|
+|
+|	The idea itself is not mine,
+|	I was inspired to create this mod
+|	while playing civilization 5 on a
+|	computer with the "More Luxuries"
+|	mod.
+|
+|------------------------------------------------------------------------------------|
+|
+|
+|	ORIGINAL MOD CIVILIZATION 5:
+|    https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=167389120
+|
+|------------------------------------------------------------------------------------|
+|
+|	ChangeLog
+|	V1.2
+|	- Added 3 new languages: German, French, Italian.
+|	V1.3
+|	- New icon lapis lazuli.
+|	- New language: Spanish.
+|	- Now resources on the map have their own model (picture), and not just an icon.
+|	V1.4
+|	- Fixed bugs.
+|	- New icon lapis lazuli.
+|	- Replacing the rarity of a resource - Glass (Unique in City-State (Mercantile)).
+|	- Palette Support - HexaRealm.
+|	- Update languange: [All].
+|
+|------------------------------------------------------------------------------------|
