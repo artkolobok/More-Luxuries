@@ -1,6 +1,0 @@
-V1.2
-- Added 3 new languages: German, French, Italian.
-V1.3
-- New icon lapis lazuli.
-- New language: Spanish.
-- Now resources on the map have their own model (picture), and not just an icon.
