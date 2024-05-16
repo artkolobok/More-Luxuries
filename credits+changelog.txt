@@ -1,12 +1,7 @@
 |------------------------------------------------------------------------------------|
 |
 |	Author: artkolobok
-|	Discord: Artkolobok#9123
-|
-|------------------------------------------------------------------------------------|
-|
-|	Art: Used by Red11 (Many thanks)
-|	Discrod: Red11#7070
+|	Discord: Artkolobok#9123 / artkolobok
 |
 |------------------------------------------------------------------------------------|
 |
@@ -18,9 +13,18 @@
 |
 |------------------------------------------------------------------------------------|
 |
+| 	COMPATIBILITY
+| 	• The mod works on the Base Version and Gods & Kings
+| 	• Support Palette: FantasyHex & HexaRealm
+| 	• Support Mod (100%): Ukraine Mod, More Pantheons - Addon
+| 	• Incompatible with scenarios by other players.
+| 	RECOMMENDED
+| 	• Install the mod add-on: "More Pantheons - Addon"
+|
+|------------------------------------------------------------------------------------|
 |
 |	ORIGINAL MOD CIVILIZATION 5:
-|    https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=167389120
+|	https://steamcommunity.com/sharedfiles/filedetails/?l=english&id=167389120
 |
 |------------------------------------------------------------------------------------|
 |
@@ -37,5 +41,9 @@
 |	- Replacing the rarity of a resource - Glass (Unique in City-State (Mercantile)).
 |	- Palette Support - HexaRealm.
 |	- Update languange: [All].
+|	V1.5
+|	- Added a "preview" of the mod.
+|	- RGB resource icons.
+|	- Added new spawn locations for some resources.
 |
 |------------------------------------------------------------------------------------|

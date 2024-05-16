@@ -3,7 +3,7 @@
 	{
 		"name": "Amber",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": [ "Forest", "Tundra", "Grassland", "Plains" ],
+		"terrainsCanBeFoundOn": [ "Tundra", "Grassland", "Plains", "Desert", "Hill" ],
 		"gold": 2,
 		"improvement": "Mine",
 		"improvementStats": { "gold": 1 }
@@ -27,7 +27,7 @@
 	{
 		"name": "Jade",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": [ "Grassland", "Plains", "Desert", "Tundra" ],
+		"terrainsCanBeFoundOn": [ "Tundra", "Grassland", "Plains", "Desert", "Hill" ],
 		"gold": 2,
 		"improvement": "Mine",
 		"improvementStats": { "gold": 1 }
@@ -35,7 +35,7 @@
 	{
 		"name": "Lapis Lazuli",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": [ "Grassland", "Plains", "Desert", "Tundra", "Hill" ],
+		"terrainsCanBeFoundOn": [ "Tundra", "Grassland", "Plains", "Desert", "Hill" ],
 		"gold": 2,
 		"improvement": "Mine",
 		"improvementStats": { "gold": 1 }
@@ -82,5 +82,5 @@
 		"resourceType": "Luxury",
 		"gold": 2,
 		"uniques": ["Can only be created by Mercantile City-States"]
-	}
+	},
 ]

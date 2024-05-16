@@ -1,258 +1,271 @@
 
 game.png
-size: 2048, 2048
+size: 2048, 64
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-ResourceIcons/Amber
-  rotate: false
-  xy: 4, 1112
-  size: 400, 400
-  orig: 400, 400
-  offset: 0, 0
-  index: -1
-ResourceIcons/Coffee
-  rotate: false
-  xy: 524, 1632
-  size: 400, 400
-  orig: 400, 400
-  offset: 0, 0
-  index: -1
-ResourceIcons/Coral
-  rotate: false
-  xy: 4, 704
-  size: 400, 400
-  orig: 400, 400
-  offset: 0, 0
-  index: -1
-ResourceIcons/Glass
-  rotate: false
-  xy: 932, 1632
-  size: 400, 400
-  orig: 400, 400
-  offset: 0, 0
-  index: -1
-ResourceIcons/Jade
-  rotate: false
-  xy: 4, 296
-  size: 400, 400
-  orig: 400, 400
-  offset: 0, 0
-  index: -1
-ResourceIcons/Lapis Lazuli
-  rotate: false
-  xy: 4, 1520
-  size: 512, 512
-  orig: 512, 512
-  offset: 0, 0
-  index: -1
-ResourceIcons/Olives
-  rotate: false
-  xy: 1340, 1632
-  size: 400, 400
-  orig: 400, 400
-  offset: 0, 0
-  index: -1
-ResourceIcons/Perfume
-  rotate: false
-  xy: 412, 1112
-  size: 400, 400
-  orig: 400, 400
-  offset: 0, 0
-  index: -1
-ResourceIcons/Tea
-  rotate: false
-  xy: 412, 704
-  size: 400, 400
-  orig: 400, 400
-  offset: 0, 0
-  index: -1
-ResourceIcons/Tobacco
-  rotate: false
-  xy: 412, 296
-  size: 400, 400
-  orig: 400, 400
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Tiles/Amber
   rotate: false
-  xy: 524, 1532
+  xy: 1156, 32
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Coffee
+TileSets/FantasyHex/Tiles/Coast+Coral+Fishing Boats
   rotate: false
-  xy: 76, 130
-  size: 32, 30
-  orig: 32, 30
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coral
-  rotate: false
-  xy: 148, 194
+  xy: 1196, 30
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coral+Fishing Boats
   rotate: false
-  xy: 220, 258
+  xy: 1196, 30
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coffee
+  rotate: false
+  xy: 1236, 30
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coral
+  rotate: false
+  xy: 1276, 30
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Jade
   rotate: false
-  xy: 1748, 1812
+  xy: 1316, 32
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Lapis Lazuli
   rotate: false
-  xy: 1820, 1876
+  xy: 1356, 32
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Olives
   rotate: false
-  xy: 1892, 1934
+  xy: 1396, 26
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Perfume
   rotate: false
-  xy: 1964, 1998
+  xy: 1436, 26
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tea
   rotate: false
-  xy: 740, 1596
+  xy: 1476, 32
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tobacco
   rotate: false
-  xy: 4, 4
+  xy: 1516, 32
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Amber
   rotate: false
-  xy: 4, 232
+  xy: 4, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coffee
   rotate: false
-  xy: 1748, 1976
+  xy: 76, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coffee+Plantation
   rotate: false
-  xy: 524, 1568
+  xy: 148, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coral
   rotate: false
-  xy: 4, 168
+  xy: 220, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coral+Fishing Boats
   rotate: false
-  xy: 76, 232
+  xy: 292, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coral+Fishing Boats-Industrial era
   rotate: false
-  xy: 1748, 1912
+  xy: 364, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Jade
   rotate: false
-  xy: 1820, 1976
+  xy: 436, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Lapis Lazuli
   rotate: false
-  xy: 596, 1568
+  xy: 508, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Olives
   rotate: false
-  xy: 4, 104
+  xy: 580, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Olives+Plantation
   rotate: false
-  xy: 76, 168
+  xy: 652, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Perfume
   rotate: false
-  xy: 148, 232
+  xy: 724, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Perfume+Plantation
   rotate: false
-  xy: 1748, 1848
+  xy: 796, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Tea
   rotate: false
-  xy: 1820, 1912
+  xy: 868, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Tea+Plantation
   rotate: false
-  xy: 1892, 1976
+  xy: 940, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Tobacco
   rotate: false
-  xy: 668, 1568
+  xy: 1012, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Tobacco+Plantation
   rotate: false
-  xy: 4, 40
+  xy: 1084, 4
   size: 64, 56
   orig: 64, 56
+  offset: 0, 0
+  index: -1
+
+ResourcesIcons.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ResourcePortraits/Coffee
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Tea
+  rotate: false
+  xy: 512, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Tobacco
+  rotate: false
+  xy: 768, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Amber
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Jade
+  rotate: false
+  xy: 256, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Olives
+  rotate: false
+  xy: 512, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Perfume
+  rotate: false
+  xy: 768, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Coral
+  rotate: false
+  xy: 0, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Lapis Lazuli
+  rotate: false
+  xy: 256, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Glass
+  rotate: false
+  xy: 512, 512
+  size: 256, 256
+  orig: 256, 256
   offset: 0, 0
   index: -1
