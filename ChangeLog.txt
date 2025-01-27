@@ -1,0 +1,28 @@
+|------------------------------------------------------------------------------------|
+|
+|									[ChangeLog]
+|
+|------------------------------------------------------------------------------------|
+|	V1.2
+|	- Added 3 new languages: German, French, Italian.
+|------------------------------------------------------------------------------------|
+|	V1.3
+|	- New icon lapis lazuli.
+|	- New language: Spanish.
+|	- Now resources on the map have their own model (picture), and not just an icon.
+|------------------------------------------------------------------------------------|
+|	V1.4
+|	- Fixed bugs.
+|	- New icon lapis lazuli.
+|	- Replacing the rarity of a resource - Glass (Unique in City-State (Mercantile)).
+|	- Palette Support - HexaRealm.
+|	- Update languange: [All].
+|------------------------------------------------------------------------------------|
+|	V1.5
+|	- Added a "preview" of the mod.
+|	- RGB resource icons.
+|	- Added new spawn locations for some resources.
+|------------------------------------------------------------------------------------|
+|	V1.6
+|	- Removed mod dependency (Fixed RBG icon display size)
+|------------------------------------------------------------------------------------|
