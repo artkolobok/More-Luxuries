@@ -5,8 +5,9 @@
 Adds nine more luxuries to the game and an additional Mercantile city-state luxury. Overall, they function the same as the existing luxuries and utilize the same placement and balancing methods.
 
 ## Author Information
-Author: artkolobok
+Author: "artkolobok"
 Discord: Artkolobok#9123 / artkolobok
+HexaRealm: "Basil not same anymore" Discord: badil8un_26150
 
 ## Inspiration
 The idea itself is not mine, I was inspired to create this mod while playing civilization 5 on a computer with the "More Luxuries" mod.
