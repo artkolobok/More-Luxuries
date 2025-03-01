@@ -6,7 +6,9 @@ Adds nine more luxuries to the game and an additional Mercantile city-state luxu
 
 ## Author Information
 Author: "artkolobok"
+
 Discord: Artkolobok#9123 / artkolobok
+
 HexaRealm: "Basil not same anymore" Discord: badil8un_26150
 
 ## Inspiration
