@@ -341,8 +341,8 @@ ResourcePortraits/Glass
   index: -1
 ResourcePortraits/Background
   rotate: false
-  xy: 806, 806
-  size: 180, 180
-  orig: 180, 180
+  xy: 768, 512
+  size: 256, 256
+  orig: 256, 256
   offset: 0, 0
   index: -1
